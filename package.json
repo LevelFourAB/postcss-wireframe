@@ -1,0 +1,26 @@
+{
+  "name": "postcss-wireframe",
+  "version": "0.1.0",
+  "description": "Wireframe utilities for PostCSS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levelfourab/postcss-wireframe.git"
+  },
+  "keywords": [
+    "postcss",
+    "postcss-plugin",
+    "wireframe",
+    "css"
+  ],
+  "author": "Andreas Holstenson <a@holstenson.se>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/levelfourab/postcss-wireframe/issues"
+  },
+  "homepage": "https://github.com/levelfourab/postcss-wireframe#readme",
+  "dependencies": {
+    "onecolor": "^2.5.0",
+    "postcss": "^5.0.13"
+  }
+}
